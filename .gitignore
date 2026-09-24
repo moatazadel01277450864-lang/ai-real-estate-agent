@@ -1,3 +1,6 @@
 .venv/
 __pycache__/
 .env
+aim_database.db
+aim_core_backup.py
+conversation_history.json
